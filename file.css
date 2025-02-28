@@ -149,8 +149,8 @@ nav ul li:hover ul {
 #frameset {
 
 overflow: hidden;
-width: 10%;
-margin-left: 15px;
+width: 100%;
+margin-left: 25px;
 
 }
 .right {
@@ -181,6 +181,6 @@ background: purple;
 
 color: black;
 width: 10%;
-margin-left: 15px;
+margin-left: 25px;
 }
 
