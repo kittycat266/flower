@@ -46,7 +46,7 @@ nav ul li {
 
   padding: 1em 3em;
 
-  background: blue; 
+  background: green; 
 
   -webkit-transition: all 0.2s;
 
@@ -122,7 +122,7 @@ nav ul li ul {
 }
 nav ul li ul li { 
 
-  background-color: #FFCCFF;
+  background-color: gray;
 
   display: block; 
 
@@ -149,8 +149,8 @@ nav ul li:hover ul {
 #frameset {
 
 overflow: hidden;
-width: 145%;
-margin-left: 10px;
+width: 125%;
+margin-left: 20px;
 
 }
 .right {
@@ -180,7 +180,7 @@ footer {
 background: purple;
 
 color: black;
-width: 145%;
-margin-left: 10px;
+width: 125%;
+margin-left: 20px;
 }
 
