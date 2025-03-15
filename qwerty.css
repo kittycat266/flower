@@ -63,19 +63,19 @@
      line-height: 1.5;
 	 
 }
-.theme-#ccbfac {
-   background: #ccbfac;
+.theme-red {
+   background: red;
    color: #000000;
 }
-.theme-#acccaf {
-   background: #acccaf;
+.theme-green {
+   background: green;
    color: #000000;
 }
-.theme-#acb9cc {
-   background: #acb9cc;
+.theme-blue {
+   background: blue;
    color: #000000;
 }
-.theme-#ccacc9 {
-   background: #ccacc9;
+.theme-pink {
+   background: pink;
    color: #000000;
 }
