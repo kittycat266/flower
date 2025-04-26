@@ -9,7 +9,7 @@ footer {
 	background-color: pink;
 }
 #wrap {
-	background-color: aqua;
+	background-color: indigo;
 }
 .submenumenuvertical {
 	background-color: purple;
