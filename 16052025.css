@@ -15,7 +15,7 @@ min-height: 450px;
 position: relative;
 top: 0;
 left: 0;
-background-color: white;
+background-color: blue;
 transform: translate3d(0, 0, 0);
 }
 .level-1 {
@@ -53,7 +53,7 @@ height: 100%;
 background-size: auto 158px;
 }
 .level-3 {
-animation: animation_fg linear 90s infinite both;
+animation: animation_fg linear 30s infinite both;
 	background: url('https://raw.githubusercontent.com/kittycat266/flower/refs/heads/main/layer-3.png') 0 100% repeat-x;
 	z-index: 1;
 
