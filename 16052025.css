@@ -139,7 +139,7 @@ height: 100%;
 
 background-size: auto 75px;
 
-animation: animation_object-2 linear 10s infinite both;
+animation: animation_object-2 linear 15s infinite both;
 }
 @keyframes animation_fg {
   0% {
